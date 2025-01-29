@@ -1,0 +1,34 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.main-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.trafficLightContainer {
+  background-color: black;
+  width: 120px;
+  padding: 10px;
+  border-radius: 8px;
+}
+.trafficLight {
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+  border-radius: 50%;
+}
+.background-red {
+  background-color: red;
+}
+.background-green {
+  background-color: green;
+}
+.background-yellow {
+  background-color: yellow;
+}
+.background-grey {
+  background-color: grey;
+}
